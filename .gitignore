@@ -1,0 +1,29 @@
+# Sensitive
+.env*
+*.env
+secrets.*
+*.key
+*.pem
+*.p12
+credentials.json
+*token*
+*password*
+*.db
+*.sqlite
+config.ini
+id_rsa*
+*.pfx
+firebase*.json
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Large files → GitHub Releases (auto by RepoJet)
+AYAD_BUILDER_PRO.exe
