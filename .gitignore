@@ -1,0 +1,25 @@
+# Sensitive
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.secret
+secrets.*
+credentials.*
+config/database.yml
+*.sqlite
+*.db
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Large files → GitHub Releases (auto by AyadNomadKit)
+AYAD_BUILDER_PRO.exe
