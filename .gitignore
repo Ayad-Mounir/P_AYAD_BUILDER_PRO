@@ -1,0 +1,48 @@
+# Sensitive
+<<<<<<< HEAD
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.secret
+secrets.*
+credentials.*
+config/database.yml
+*.sqlite
+*.db
+=======
+.env*
+*.env
+secrets.*
+*.key
+*.pem
+*.p12
+credentials.json
+*token*
+*password*
+*.db
+*.sqlite
+config.ini
+id_rsa*
+*.pfx
+firebase*.json
+>>>>>>> 420334e072a2b65ac3cc0e440b63f02ecf619c01
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+<<<<<<< HEAD
+=======
+# Large files → GitHub Releases (auto by RepoJet)
+>>>>>>> 420334e072a2b65ac3cc0e440b63f02ecf619c01
+
+# Large files → GitHub Releases (auto by AyadNomadKit)
+AYAD_BUILDER_PRO.exe
