@@ -1,8 +1,11 @@
 # Sensitive
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 10b01d0a9faf4ec0b622e81c6127a07643c05704
+=======
+>>>>>>> eef48c78e963c8d1b8333224f4bb6ab831fbe40c
 .env
 *.key
 *.pem
@@ -15,6 +18,9 @@ config/database.yml
 *.sqlite
 *.db
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eef48c78e963c8d1b8333224f4bb6ab831fbe40c
 =======
 .env*
 *.env
@@ -32,8 +38,11 @@ id_rsa*
 *.pfx
 firebase*.json
 >>>>>>> 420334e072a2b65ac3cc0e440b63f02ecf619c01
+<<<<<<< HEAD
 =======
 >>>>>>> 10b01d0a9faf4ec0b622e81c6127a07643c05704
+=======
+>>>>>>> eef48c78e963c8d1b8333224f4bb6ab831fbe40c
 
 # System
 .DS_Store
@@ -47,12 +56,20 @@ Thumbs.db
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eef48c78e963c8d1b8333224f4bb6ab831fbe40c
 =======
 # Large files → GitHub Releases (auto by RepoJet)
 >>>>>>> 420334e072a2b65ac3cc0e440b63f02ecf619c01
 
+<<<<<<< HEAD
 =======
 >>>>>>> 10b01d0a9faf4ec0b622e81c6127a07643c05704
+
+=======
+# Large files → GitHub Releases (auto by AyadNomadKit)
+>>>>>>> eef48c78e963c8d1b8333224f4bb6ab831fbe40c
 
 # Large files → GitHub Releases (auto by AyadFlowSync)
 AYAD_BUILDER_PRO.exe
